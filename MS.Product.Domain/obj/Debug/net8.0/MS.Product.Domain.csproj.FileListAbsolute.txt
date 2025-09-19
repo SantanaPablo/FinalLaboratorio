@@ -1,0 +1,11 @@
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Domain\bin\Debug\net8.0\MS.Product.Domain.deps.json
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Domain\bin\Debug\net8.0\MS.Product.Domain.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Domain\bin\Debug\net8.0\MS.Product.Domain.pdb
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Domain\obj\Debug\net8.0\MS.Product.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Domain\obj\Debug\net8.0\MS.Product.Domain.AssemblyInfoInputs.cache
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Domain\obj\Debug\net8.0\MS.Product.Domain.AssemblyInfo.cs
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Domain\obj\Debug\net8.0\MS.Product.Domain.csproj.CoreCompileInputs.cache
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Domain\obj\Debug\net8.0\MS.Product.Domain.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Domain\obj\Debug\net8.0\refint\MS.Product.Domain.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Domain\obj\Debug\net8.0\MS.Product.Domain.pdb
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Domain\obj\Debug\net8.0\ref\MS.Product.Domain.dll

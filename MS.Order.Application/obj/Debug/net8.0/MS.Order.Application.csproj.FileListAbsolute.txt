@@ -1,0 +1,17 @@
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\bin\Debug\net8.0\MS.Order.Application.deps.json
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\bin\Debug\net8.0\MS.Order.Application.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\bin\Debug\net8.0\MS.Order.Application.pdb
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\bin\Debug\net8.0\MS.Order.Domain.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\bin\Debug\net8.0\MS.Order.Infrastructure.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\bin\Debug\net8.0\MS.Order.Domain.pdb
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\bin\Debug\net8.0\MS.Order.Infrastructure.pdb
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.csproj.AssemblyReference.cache
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.AssemblyInfoInputs.cache
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.AssemblyInfo.cs
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.csproj.CoreCompileInputs.cache
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\obj\Debug\net8.0\MS.Order.95D61EB7.Up2Date
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\obj\Debug\net8.0\refint\MS.Order.Application.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.pdb
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\obj\Debug\net8.0\ref\MS.Order.Application.dll

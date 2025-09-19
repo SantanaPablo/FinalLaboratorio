@@ -1,0 +1,326 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\MS.Product.API.csproj": {}
+  },
+  "projects": {
+    "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\MS.Product.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\MS.Product.API.csproj",
+        "projectName": "MS.Product.API",
+        "projectPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\MS.Product.API.csproj",
+        "packagesPath": "C:\\Users\\Pablo Santana\\.nuget\\packages\\",
+        "outputPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pablo Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\MS.Product.Application.csproj": {
+                "projectPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\MS.Product.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\MS.Product.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\MS.Product.Application.csproj",
+        "projectName": "MS.Product.Application",
+        "projectPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\MS.Product.Application.csproj",
+        "packagesPath": "C:\\Users\\Pablo Santana\\.nuget\\packages\\",
+        "outputPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pablo Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Domain\\MS.Product.Domain.csproj": {
+                "projectPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Domain\\MS.Product.Domain.csproj"
+              },
+              "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Infrastructure\\MSProduct.Infrastructure.csproj": {
+                "projectPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Infrastructure\\MSProduct.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Domain\\MS.Product.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Domain\\MS.Product.Domain.csproj",
+        "projectName": "MS.Product.Domain",
+        "projectPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Domain\\MS.Product.Domain.csproj",
+        "packagesPath": "C:\\Users\\Pablo Santana\\.nuget\\packages\\",
+        "outputPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pablo Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Infrastructure\\MSProduct.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Infrastructure\\MSProduct.Infrastructure.csproj",
+        "projectName": "MSProduct.Infrastructure",
+        "projectPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Infrastructure\\MSProduct.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Pablo Santana\\.nuget\\packages\\",
+        "outputPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pablo Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Domain\\MS.Product.Domain.csproj": {
+                "projectPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Domain\\MS.Product.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.9, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[8.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

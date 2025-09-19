@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "MS.Customer.API\\MS.Customer.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MS.Product.API\\MS.Product.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MS.Order.API\\MS.Order.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

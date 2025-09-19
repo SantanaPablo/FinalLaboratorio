@@ -1,0 +1,17 @@
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\bin\Debug\net8.0\MS.Product.Application.deps.json
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\bin\Debug\net8.0\MS.Product.Application.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\bin\Debug\net8.0\MS.Product.Application.pdb
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\bin\Debug\net8.0\MS.Product.Domain.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\bin\Debug\net8.0\MSProduct.Infrastructure.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\bin\Debug\net8.0\MS.Product.Domain.pdb
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\bin\Debug\net8.0\MSProduct.Infrastructure.pdb
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\obj\Debug\net8.0\MS.Product.Application.csproj.AssemblyReference.cache
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\obj\Debug\net8.0\MS.Product.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\obj\Debug\net8.0\MS.Product.Application.AssemblyInfoInputs.cache
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\obj\Debug\net8.0\MS.Product.Application.AssemblyInfo.cs
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\obj\Debug\net8.0\MS.Product.Application.csproj.CoreCompileInputs.cache
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\obj\Debug\net8.0\MS.Produ.FA312E7E.Up2Date
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\obj\Debug\net8.0\MS.Product.Application.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\obj\Debug\net8.0\refint\MS.Product.Application.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\obj\Debug\net8.0\MS.Product.Application.pdb
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Product.Application\obj\Debug\net8.0\ref\MS.Product.Application.dll

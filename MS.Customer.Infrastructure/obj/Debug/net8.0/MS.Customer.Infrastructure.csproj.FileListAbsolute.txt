@@ -1,0 +1,15 @@
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\bin\Debug\net8.0\MS.Customer.Infrastructure.deps.json
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\bin\Debug\net8.0\MS.Customer.Infrastructure.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\bin\Debug\net8.0\MS.Customer.Infrastructure.pdb
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\bin\Debug\net8.0\MS.Customer.Domain.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\bin\Debug\net8.0\MS.Customer.Domain.pdb
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.csproj.AssemblyReference.cache
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.AssemblyInfoInputs.cache
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.AssemblyInfo.cs
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Custo.8C3A3E15.Up2Date
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\obj\Debug\net8.0\refint\MS.Customer.Infrastructure.dll
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.pdb
+E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\obj\Debug\net8.0\ref\MS.Customer.Infrastructure.dll
