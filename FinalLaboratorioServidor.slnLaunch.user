@@ -1,6 +1,6 @@
 [
   {
-    "Name": "Nuevo perfil",
+    "Name": "3 Microservicios",
     "Projects": [
       {
         "Path": "MS.Customer.API\\MS.Customer.API.csproj",

@@ -9,3 +9,15 @@ E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MSCustomer.Domain\o
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MSCustomer.Domain\obj\Debug\net8.0\refint\MS.Customer.Domain.dll
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MSCustomer.Domain\obj\Debug\net8.0\MS.Customer.Domain.pdb
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MSCustomer.Domain\obj\Debug\net8.0\ref\MS.Customer.Domain.dll
+C:\FinalLaboratorio\FinalLaboratorio\MSCustomer.Domain\bin\Debug\net8.0\MS.Customer.Domain.deps.json
+C:\FinalLaboratorio\FinalLaboratorio\MSCustomer.Domain\bin\Debug\net8.0\MS.Customer.Domain.dll
+C:\FinalLaboratorio\FinalLaboratorio\MSCustomer.Domain\bin\Debug\net8.0\MS.Customer.Domain.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MSCustomer.Domain\obj\Debug\net8.0\MS.Customer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalLaboratorio\FinalLaboratorio\MSCustomer.Domain\obj\Debug\net8.0\MS.Customer.Domain.AssemblyInfoInputs.cache
+C:\FinalLaboratorio\FinalLaboratorio\MSCustomer.Domain\obj\Debug\net8.0\MS.Customer.Domain.AssemblyInfo.cs
+C:\FinalLaboratorio\FinalLaboratorio\MSCustomer.Domain\obj\Debug\net8.0\MS.Customer.Domain.csproj.CoreCompileInputs.cache
+C:\FinalLaboratorio\FinalLaboratorio\MSCustomer.Domain\obj\Debug\net8.0\MS.Customer.Domain.sourcelink.json
+C:\FinalLaboratorio\FinalLaboratorio\MSCustomer.Domain\obj\Debug\net8.0\MS.Customer.Domain.dll
+C:\FinalLaboratorio\FinalLaboratorio\MSCustomer.Domain\obj\Debug\net8.0\refint\MS.Customer.Domain.dll
+C:\FinalLaboratorio\FinalLaboratorio\MSCustomer.Domain\obj\Debug\net8.0\MS.Customer.Domain.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MSCustomer.Domain\obj\Debug\net8.0\ref\MS.Customer.Domain.dll

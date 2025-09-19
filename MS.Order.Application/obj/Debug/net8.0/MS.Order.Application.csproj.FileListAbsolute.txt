@@ -15,3 +15,21 @@ E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Applicatio
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\obj\Debug\net8.0\refint\MS.Order.Application.dll
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.pdb
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Application\obj\Debug\net8.0\ref\MS.Order.Application.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\bin\Debug\net8.0\MS.Order.Application.deps.json
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\bin\Debug\net8.0\MS.Order.Application.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\bin\Debug\net8.0\MS.Order.Application.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\bin\Debug\net8.0\MS.Order.Domain.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\bin\Debug\net8.0\MS.Order.Infrastructure.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\bin\Debug\net8.0\MS.Order.Domain.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\bin\Debug\net8.0\MS.Order.Infrastructure.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.csproj.AssemblyReference.cache
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.AssemblyInfoInputs.cache
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.AssemblyInfo.cs
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.csproj.CoreCompileInputs.cache
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.sourcelink.json
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\obj\Debug\net8.0\MS.Order.95D61EB7.Up2Date
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\obj\Debug\net8.0\refint\MS.Order.Application.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\obj\Debug\net8.0\MS.Order.Application.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Application\obj\Debug\net8.0\ref\MS.Order.Application.dll

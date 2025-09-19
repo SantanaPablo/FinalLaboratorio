@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+﻿import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 
 const API_URL = 'https://localhost:5002/api/Customer';
@@ -95,7 +95,7 @@ const CustomerForm = () => {
                     </div>
                     <div>
                         <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="address">
-                            Direcci�n
+                            Dirección
                         </label>
                         <input
                             type="text"

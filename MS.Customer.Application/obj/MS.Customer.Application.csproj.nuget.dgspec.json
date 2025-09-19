@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\MS.Customer.Application.csproj": {}
+    "C:\\FinalLaboratorio\\FinalLaboratorio\\MS.Customer.Application\\MS.Customer.Application.csproj": {}
   },
   "projects": {
-    "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\MS.Customer.Application.csproj": {
+    "C:\\FinalLaboratorio\\FinalLaboratorio\\MS.Customer.Application\\MS.Customer.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\MS.Customer.Application.csproj",
+        "projectUniqueName": "C:\\FinalLaboratorio\\FinalLaboratorio\\MS.Customer.Application\\MS.Customer.Application.csproj",
         "projectName": "MS.Customer.Application",
-        "projectPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\MS.Customer.Application.csproj",
-        "packagesPath": "C:\\Users\\Pablo Santana\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\obj\\",
+        "projectPath": "C:\\FinalLaboratorio\\FinalLaboratorio\\MS.Customer.Application\\MS.Customer.Application.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\FinalLaboratorio\\FinalLaboratorio\\MS.Customer.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pablo Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,11 +32,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj": {
-                "projectPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj"
+              "C:\\FinalLaboratorio\\FinalLaboratorio\\MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj": {
+                "projectPath": "C:\\FinalLaboratorio\\FinalLaboratorio\\MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj"
               },
-              "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MSCustomer.Domain\\MS.Customer.Domain.csproj": {
-                "projectPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MSCustomer.Domain\\MS.Customer.Domain.csproj"
+              "C:\\FinalLaboratorio\\FinalLaboratorio\\MSCustomer.Domain\\MS.Customer.Domain.csproj": {
+                "projectPath": "C:\\FinalLaboratorio\\FinalLaboratorio\\MSCustomer.Domain\\MS.Customer.Domain.csproj"
               }
             }
           }
@@ -51,7 +51,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -72,24 +72,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj": {
+    "C:\\FinalLaboratorio\\FinalLaboratorio\\MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj",
+        "projectUniqueName": "C:\\FinalLaboratorio\\FinalLaboratorio\\MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj",
         "projectName": "MS.Customer.Infrastructure",
-        "projectPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Pablo Santana\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Infrastructure\\obj\\",
+        "projectPath": "C:\\FinalLaboratorio\\FinalLaboratorio\\MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\FinalLaboratorio\\FinalLaboratorio\\MS.Customer.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pablo Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -104,8 +104,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MSCustomer.Domain\\MS.Customer.Domain.csproj": {
-                "projectPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MSCustomer.Domain\\MS.Customer.Domain.csproj"
+              "C:\\FinalLaboratorio\\FinalLaboratorio\\MSCustomer.Domain\\MS.Customer.Domain.csproj": {
+                "projectPath": "C:\\FinalLaboratorio\\FinalLaboratorio\\MSCustomer.Domain\\MS.Customer.Domain.csproj"
               }
             }
           }
@@ -120,7 +120,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -159,24 +159,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MSCustomer.Domain\\MS.Customer.Domain.csproj": {
+    "C:\\FinalLaboratorio\\FinalLaboratorio\\MSCustomer.Domain\\MS.Customer.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MSCustomer.Domain\\MS.Customer.Domain.csproj",
+        "projectUniqueName": "C:\\FinalLaboratorio\\FinalLaboratorio\\MSCustomer.Domain\\MS.Customer.Domain.csproj",
         "projectName": "MS.Customer.Domain",
-        "projectPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MSCustomer.Domain\\MS.Customer.Domain.csproj",
-        "packagesPath": "C:\\Users\\Pablo Santana\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MSCustomer.Domain\\obj\\",
+        "projectPath": "C:\\FinalLaboratorio\\FinalLaboratorio\\MSCustomer.Domain\\MS.Customer.Domain.csproj",
+        "packagesPath": "C:\\Users\\USUARIO\\.nuget\\packages\\",
+        "outputPath": "C:\\FinalLaboratorio\\FinalLaboratorio\\MSCustomer.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pablo Santana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USUARIO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -203,7 +203,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -224,7 +224,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

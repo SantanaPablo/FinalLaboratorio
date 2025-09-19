@@ -15,3 +15,21 @@ E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Applica
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Application\obj\Debug\net8.0\refint\MS.Customer.Application.dll
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Application\obj\Debug\net8.0\MS.Customer.Application.pdb
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Application\obj\Debug\net8.0\ref\MS.Customer.Application.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\bin\Debug\net8.0\MS.Customer.Application.deps.json
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\bin\Debug\net8.0\MS.Customer.Application.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\bin\Debug\net8.0\MS.Customer.Application.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\bin\Debug\net8.0\MS.Customer.Domain.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\bin\Debug\net8.0\MS.Customer.Infrastructure.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\bin\Debug\net8.0\MS.Customer.Infrastructure.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\bin\Debug\net8.0\MS.Customer.Domain.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\obj\Debug\net8.0\MS.Customer.Application.csproj.AssemblyReference.cache
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\obj\Debug\net8.0\MS.Customer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\obj\Debug\net8.0\MS.Customer.Application.AssemblyInfoInputs.cache
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\obj\Debug\net8.0\MS.Customer.Application.AssemblyInfo.cs
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\obj\Debug\net8.0\MS.Customer.Application.csproj.CoreCompileInputs.cache
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\obj\Debug\net8.0\MS.Customer.Application.sourcelink.json
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\obj\Debug\net8.0\MS.Custo.7B4ADBEA.Up2Date
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\obj\Debug\net8.0\MS.Customer.Application.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\obj\Debug\net8.0\refint\MS.Customer.Application.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\obj\Debug\net8.0\MS.Customer.Application.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Application\obj\Debug\net8.0\ref\MS.Customer.Application.dll

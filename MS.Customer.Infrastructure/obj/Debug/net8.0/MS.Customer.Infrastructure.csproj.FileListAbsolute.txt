@@ -13,3 +13,19 @@ E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrast
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\obj\Debug\net8.0\refint\MS.Customer.Infrastructure.dll
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.pdb
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Customer.Infrastructure\obj\Debug\net8.0\ref\MS.Customer.Infrastructure.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\bin\Debug\net8.0\MS.Customer.Infrastructure.deps.json
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\bin\Debug\net8.0\MS.Customer.Infrastructure.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\bin\Debug\net8.0\MS.Customer.Infrastructure.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\bin\Debug\net8.0\MS.Customer.Domain.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\bin\Debug\net8.0\MS.Customer.Domain.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.csproj.AssemblyReference.cache
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.AssemblyInfoInputs.cache
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.AssemblyInfo.cs
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.sourcelink.json
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Custo.8C3A3E15.Up2Date
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\obj\Debug\net8.0\refint\MS.Customer.Infrastructure.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\obj\Debug\net8.0\MS.Customer.Infrastructure.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MS.Customer.Infrastructure\obj\Debug\net8.0\ref\MS.Customer.Infrastructure.dll

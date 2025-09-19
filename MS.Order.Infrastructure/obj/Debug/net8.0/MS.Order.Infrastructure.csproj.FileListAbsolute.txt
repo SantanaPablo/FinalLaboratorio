@@ -13,3 +13,19 @@ E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Infrastruc
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Infrastructure\obj\Debug\net8.0\refint\MS.Order.Infrastructure.dll
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Infrastructure\obj\Debug\net8.0\MS.Order.Infrastructure.pdb
 E:\Users\Pablo Santana\source\repos\FinalLaboratorioServidor\MS.Order.Infrastructure\obj\Debug\net8.0\ref\MS.Order.Infrastructure.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\bin\Debug\net8.0\MS.Order.Infrastructure.deps.json
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\bin\Debug\net8.0\MS.Order.Infrastructure.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\bin\Debug\net8.0\MS.Order.Infrastructure.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\bin\Debug\net8.0\MS.Order.Domain.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\bin\Debug\net8.0\MS.Order.Domain.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\obj\Debug\net8.0\MS.Order.Infrastructure.csproj.AssemblyReference.cache
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\obj\Debug\net8.0\MS.Order.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\obj\Debug\net8.0\MS.Order.Infrastructure.AssemblyInfoInputs.cache
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\obj\Debug\net8.0\MS.Order.Infrastructure.AssemblyInfo.cs
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\obj\Debug\net8.0\MS.Order.Infrastructure.csproj.CoreCompileInputs.cache
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\obj\Debug\net8.0\MS.Order.Infrastructure.sourcelink.json
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\obj\Debug\net8.0\MS.Order.701CDADC.Up2Date
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\obj\Debug\net8.0\MS.Order.Infrastructure.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\obj\Debug\net8.0\refint\MS.Order.Infrastructure.dll
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\obj\Debug\net8.0\MS.Order.Infrastructure.pdb
+C:\FinalLaboratorio\FinalLaboratorio\MS.Order.Infrastructure\obj\Debug\net8.0\ref\MS.Order.Infrastructure.dll
