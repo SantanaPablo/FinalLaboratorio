@@ -23,7 +23,7 @@ namespace MSOrder.Application.Services
             try
             {
                 var customerServiceUrl = _configuration["ServiceUrls:CustomerService"];
-                _logger.LogInformation($"Calling Customer service at {customerServiceUrl} for ID: {customerId}");
+                _logger.LogInformation($"Llamando al servicio de clientes en {customerServiceUrl} para el ID: {customerId}");
 
                 var response = await _httpClient.GetAsync($"{customerServiceUrl}/api/customer/{customerId}");
 
@@ -35,26 +35,26 @@ namespace MSOrder.Application.Services
                         PropertyNameCaseInsensitive = true
                     };
                     var customer = JsonSerializer.Deserialize<CustomerDto>(json, options);
-                    _logger.LogInformation($"Successfully retrieved customer: {customer?.Name}");
+                    _logger.LogInformation($"Cliente recuperado con éxito: {customer?.Name}");
                     return customer;
                 }
 
-                _logger.LogWarning($"Customer service returned {response.StatusCode} for customer ID: {customerId}");
+                _logger.LogWarning($"El servicio de clientes devolvió {response.StatusCode} para el ID de cliente: {customerId}");
                 return null;
             }
             catch (HttpRequestException ex)
             {
-                _logger.LogError(ex, $"HTTP error when calling Customer service for ID: {customerId}");
+                _logger.LogError(ex, $"Error HTTP al llamar al servicio de clientes para el ID: {customerId}");
                 return null;
             }
             catch (TaskCanceledException ex)
             {
-                _logger.LogError(ex, $"Timeout when calling Customer service for ID: {customerId}");
+                _logger.LogError(ex, $"Tiempo de espera agotado al llamar al servicio de clientes para el ID: {customerId}");
                 return null;
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, $"Unexpected error when calling Customer service for ID: {customerId}");
+                _logger.LogError(ex, $"Error inesperado al llamar al servicio de clientes para el ID: {customerId}");
                 return null;
             }
         }

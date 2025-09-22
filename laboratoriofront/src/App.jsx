@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, Link, Navigate } from 'react-router-dom';
 import CustomerList from './pages/CustomerList';
 import CustomerForm from './pages/CustomerForm';
 import ProductList from './pages/ProductList';
@@ -22,6 +22,9 @@ function App() {
                 </div>
             </nav>
             <Routes>
+                {/* Esta nueva ruta redirige la URL base ("/") a "/customers" */}
+                <Route path="/" element={<Navigate to="/customers" replace />} />
+
                 <Route path="/customers" element={<CustomerList />} />
                 <Route path="/customers/create" element={<CustomerForm />} />
                 <Route path="/customers/:id" element={<CustomerForm />} />
@@ -32,8 +35,6 @@ function App() {
                 <Route path="/products" element={<ProductList />} />
                 <Route path="/products/create" element={<ProductForm />} />
                 <Route path="/products/:id" element={<ProductForm />} />
-                <Route path="/orders" element={<OrderList />} />
-                <Route path="/orders/create" element={<OrderForm />} />
                 <Route path="/orders" element={<OrderList />} />
                 <Route path="/orders/create" element={<OrderForm />} />
                 <Route path="/orders/:id" element={<OrderDetails />} />

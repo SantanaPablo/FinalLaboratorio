@@ -24,7 +24,7 @@ namespace MSOrder.Application.Services
             try
             {
                 var productServiceUrl = _configuration["ServiceUrls:ProductService"];
-                _logger.LogInformation($"Calling Product service at {productServiceUrl} for ID: {productId}");
+                _logger.LogInformation($"Llamando al servicio de productos en {productServiceUrl} para el ID: {productId}");
 
                 var response = await _httpClient.GetAsync($"{productServiceUrl}/api/product/{productId}");
 
@@ -36,26 +36,26 @@ namespace MSOrder.Application.Services
                         PropertyNameCaseInsensitive = true
                     };
                     var product = JsonSerializer.Deserialize<ProductDto>(json, options);
-                    _logger.LogInformation($"Successfully retrieved product: {product?.Name}");
+                    _logger.LogInformation($"Producto recuperado con éxito: {product?.Name}");
                     return product;
                 }
 
-                _logger.LogWarning($"Product service returned {response.StatusCode} for product ID: {productId}");
+                _logger.LogWarning($"El servicio de productos devolvió {response.StatusCode} para el ID de producto: {productId}");
                 return null;
             }
             catch (HttpRequestException ex)
             {
-                _logger.LogError(ex, $"HTTP error when calling Product service for ID: {productId}");
+                _logger.LogError(ex, $"Error HTTP al llamar al servicio de productos para el ID: {productId}");
                 return null;
             }
             catch (TaskCanceledException ex)
             {
-                _logger.LogError(ex, $"Timeout when calling Product service for ID: {productId}");
+                _logger.LogError(ex, $"Tiempo de espera agotado al llamar al servicio de productos para el ID: {productId}");
                 return null;
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, $"Unexpected error when calling Product service for ID: {productId}");
+                _logger.LogError(ex, $"Error inesperado al llamar al servicio de productos para el ID: {productId}");
                 return null;
             }
         }
@@ -65,7 +65,7 @@ namespace MSOrder.Application.Services
             try
             {
                 var productServiceUrl = _configuration["ServiceUrls:ProductService"];
-                _logger.LogInformation($"Updating stock at {productServiceUrl} for product {productId}, quantity: {quantity}");
+                _logger.LogInformation($"Actualizando stock en {productServiceUrl} para el producto {productId}, cantidad: {quantity}");
 
                 var requestBody = new { Quantity = quantity };
                 var content = new StringContent(
@@ -78,27 +78,27 @@ namespace MSOrder.Application.Services
 
                 if (response.IsSuccessStatusCode)
                 {
-                    _logger.LogInformation($"Stock updated successfully for product {productId}");
+                    _logger.LogInformation($"Stock actualizado con éxito para el producto {productId}");
                     return true;
                 }
 
                 var errorContent = await response.Content.ReadAsStringAsync();
-                _logger.LogWarning($"Failed to update stock. Product service returned {response.StatusCode}: {errorContent}");
+                _logger.LogWarning($"No se pudo actualizar el stock. El servicio de productos devolvió {response.StatusCode}: {errorContent}");
                 return false;
             }
             catch (HttpRequestException ex)
             {
-                _logger.LogError(ex, $"HTTP error when updating stock for product ID: {productId}");
+                _logger.LogError(ex, $"Error HTTP al actualizar el stock para el ID de producto: {productId}");
                 return false;
             }
             catch (TaskCanceledException ex)
             {
-                _logger.LogError(ex, $"Timeout when updating stock for product ID: {productId}");
+                _logger.LogError(ex, $"Tiempo de espera agotado al actualizar el stock para el ID de producto: {productId}");
                 return false;
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, $"Unexpected error when updating stock for product ID: {productId}");
+                _logger.LogError(ex, $"Error inesperado al actualizar el stock para el ID de producto: {productId}");
                 return false;
             }
         }
@@ -112,7 +112,7 @@ namespace MSOrder.Application.Services
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, $"Error when checking stock for product ID: {productId}");
+                _logger.LogError(ex, $"Error al verificar el stock para el ID de producto: {productId}");
                 return false;
             }
         }
