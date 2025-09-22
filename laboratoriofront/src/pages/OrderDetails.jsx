@@ -73,12 +73,12 @@ const OrderDetails = () => {
                         onClick={() => navigate('/orders')}
                         className="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded-lg"
                     >
-                        Volver a �rdenes
+                        Volver a Órdenes
                     </button>
                 </div>
 
                 <div className="mb-6">
-                    <h2 className="text-xl font-semibold mb-2">Informaci�n de la Orden</h2>
+                    <h2 className="text-xl font-semibold mb-2">Información de la Orden</h2>
                     <p><strong>Cliente:</strong> {getCustomerName(order.customerId)}</p>
                     <p><strong>Fecha:</strong> {new Date(order.orderDate).toLocaleDateString()}</p>
                     <p><strong>Total:</strong> ${order.totalAmount ? order.totalAmount.toFixed(2) : '0.00'}</p>
