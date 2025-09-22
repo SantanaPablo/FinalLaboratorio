@@ -22,7 +22,6 @@ function App() {
                 </div>
             </nav>
             <Routes>
-                {/* Esta nueva ruta redirige la URL base ("/") a "/customers" */}
                 <Route path="/" element={<Navigate to="/customers" replace />} />
 
                 <Route path="/customers" element={<CustomerList />} />
