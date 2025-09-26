@@ -119,6 +119,7 @@ const ProductForm = () => {
                             id="price"
                             value={product.price}
                             onChange={handleChange}
+                            max="999999999" //validamos desde el front el precio para que no haga la validacion en la api
                             className="shadow appearance-none border rounded-lg w-full py-3 px-4 text-gray-700 leading-tight focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent transition-all duration-300"
                         />
                     </div>
