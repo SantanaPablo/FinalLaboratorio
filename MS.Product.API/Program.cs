@@ -3,6 +3,10 @@ using MSProduct.Infrastructure.Repositories;
 using MSProduct.Infrastructure.Data;
 using MSProduct.Infrastructure;
 using Microsoft.EntityFrameworkCore;
+using FluentValidation;
+using MSProduct.Application.DTOs;
+using MSProduct.Application.Validators;
+using FluentValidation.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +21,12 @@ builder.Services.AddDbContext<ProductDbContext>(options =>
 
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IProductService, ProductService>();
+
+builder.Services.AddScoped<IValidator<CreateProductDto>, CreateProductDtoValidator>();
+builder.Services.AddScoped<IValidator<UpdateProductDto>, UpdateProductDtoValidator>();
+
+builder.Services.AddFluentValidationAutoValidation();
+builder.Services.AddValidatorsFromAssemblyContaining<Program>();
 
 //Se habilita desde cualquier origen para pruebas
 builder.Services.AddCors(options =>

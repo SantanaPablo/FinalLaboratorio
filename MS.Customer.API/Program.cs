@@ -1,7 +1,11 @@
+using FluentValidation.AspNetCore;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
 using MSCustomer.Application.Services;
 using MSCustomer.Infrastructure.Data;
 using MSCustomer.Infrastructure.Repositories;
+using MSCustomer.Application.DTOs;
+using MS.Customer.Application.Validators;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,6 +18,12 @@ builder.Services.AddDbContext<CustomerDbContext>(options =>
 
 builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
 builder.Services.AddScoped<ICustomerService, CustomerService>();
+
+builder.Services.AddScoped<IValidator<CreateCustomerDto>, CreateCustomerDtoValidator>();
+builder.Services.AddScoped<IValidator<UpdateCustomerDto>, UpdateCustomerDtoValidator>();
+
+builder.Services.AddFluentValidationAutoValidation();
+builder.Services.AddValidatorsFromAssemblyContaining<Program>();
 
 // HTTP Client para comunicación entre microservicios
 builder.Services.AddHttpClient();

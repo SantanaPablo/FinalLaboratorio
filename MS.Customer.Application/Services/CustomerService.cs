@@ -1,17 +1,92 @@
-﻿using MSCustomer.Application.DTOs;
+﻿using FluentValidation;
+using MSCustomer.Application.DTOs;
 using MSCustomer.Domain;
 using MSCustomer.Infrastructure.Repositories;
-using MSCustomer.Application.Services;
 
 namespace MSCustomer.Application.Services
 {
     public class CustomerService : ICustomerService
     {
         private readonly ICustomerRepository _repository;
+        private readonly IValidator<CreateCustomerDto> _createValidator;
+        private readonly IValidator<UpdateCustomerDto> _updateValidator;
 
-        public CustomerService(ICustomerRepository repository)
+        public CustomerService(
+            ICustomerRepository repository,
+            IValidator<CreateCustomerDto> createValidator,
+            IValidator<UpdateCustomerDto> updateValidator)
         {
             _repository = repository;
+            _createValidator = createValidator;
+            _updateValidator = updateValidator;
+        }
+
+        public async Task<Result<CustomerDto>> CreateCustomerAsync(CreateCustomerDto createDto)
+        {
+            // Validar usando FluentValidation
+            var validationResult = await _createValidator.ValidateAsync(createDto);
+            if (!validationResult.IsValid)
+            {
+                var errors = string.Join("; ", validationResult.Errors.Select(e => e.ErrorMessage));
+                return Result.Fail<CustomerDto>(errors);
+            }
+
+            var customer = new Customer
+            {
+                Name = createDto.Name,
+                Email = createDto.Email,
+                Address = createDto.Address ?? string.Empty
+            };
+
+            var result = await _repository.AddAsync(customer);
+            if (!result.IsSuccess)
+                return Result.Fail<CustomerDto>(result.Error);
+
+            var customerDto = new CustomerDto
+            {
+                Id = result.Value.Id,
+                Name = result.Value.Name,
+                Email = result.Value.Email,
+                Address = result.Value.Address,
+                RegistrationDate = result.Value.RegistrationDate
+            };
+
+            return Result.Success(customerDto);
+        }
+
+        public async Task<Result<CustomerDto>> UpdateCustomerAsync(int id, UpdateCustomerDto updateDto)
+        {
+            // Validar usando FluentValidation
+            var validationResult = await _updateValidator.ValidateAsync(updateDto);
+            if (!validationResult.IsValid)
+            {
+                var errors = string.Join("; ", validationResult.Errors.Select(e => e.ErrorMessage));
+                return Result.Fail<CustomerDto>(errors);
+            }
+
+            var existingResult = await _repository.GetByIdAsync(id);
+            if (!existingResult.IsSuccess)
+                return Result.Fail<CustomerDto>(existingResult.Error);
+
+            var customer = existingResult.Value;
+            customer.Name = updateDto.Name;
+            customer.Email = updateDto.Email;
+            customer.Address = updateDto.Address ?? string.Empty;
+
+            var result = await _repository.UpdateAsync(customer);
+            if (!result.IsSuccess)
+                return Result.Fail<CustomerDto>(result.Error);
+
+            var customerDto = new CustomerDto
+            {
+                Id = result.Value.Id,
+                Name = result.Value.Name,
+                Email = result.Value.Email,
+                Address = result.Value.Address,
+                RegistrationDate = result.Value.RegistrationDate
+            };
+
+            return Result.Success(customerDto);
         }
 
         public async Task<Result<IEnumerable<CustomerDto>>> GetAllCustomersAsync()
@@ -68,94 +143,9 @@ namespace MSCustomer.Application.Services
             return Result.Success(customerDto);
         }
 
-        public async Task<Result<CustomerDto>> CreateCustomerAsync(CreateCustomerDto createDto)
-        {
-            // Validaciones
-            if (string.IsNullOrWhiteSpace(createDto.Name))
-                return Result.Fail<CustomerDto>("El nombre es requerido");
-
-            if (string.IsNullOrWhiteSpace(createDto.Email))
-                return Result.Fail<CustomerDto>("El email es requerido");
-
-            if (!IsValidEmail(createDto.Email))
-                return Result.Fail<CustomerDto>("El formato del email no es válido");
-
-            var customer = new Customer
-            {
-                Name = createDto.Name.Trim(),
-                Email = createDto.Email.Trim().ToLower(),
-                Address = createDto.Address?.Trim() ?? string.Empty
-            };
-
-            var result = await _repository.AddAsync(customer);
-            if (!result.IsSuccess)
-                return Result.Fail<CustomerDto>(result.Error);
-
-            var customerDto = new CustomerDto
-            {
-                Id = result.Value.Id,
-                Name = result.Value.Name,
-                Email = result.Value.Email,
-                Address = result.Value.Address,
-                RegistrationDate = result.Value.RegistrationDate
-            };
-
-            return Result.Success(customerDto);
-        }
-
-        public async Task<Result<CustomerDto>> UpdateCustomerAsync(int id, UpdateCustomerDto updateDto)
-        {
-            // Validaciones
-            if (string.IsNullOrWhiteSpace(updateDto.Name))
-                return Result.Fail<CustomerDto>("El nombre es requerido");
-
-            if (string.IsNullOrWhiteSpace(updateDto.Email))
-                return Result.Fail<CustomerDto>("El email es requerido");
-
-            if (!IsValidEmail(updateDto.Email))
-                return Result.Fail<CustomerDto>("El formato del email no es válido");
-
-            var existingResult = await _repository.GetByIdAsync(id);
-            if (!existingResult.IsSuccess)
-                return Result.Fail<CustomerDto>(existingResult.Error);
-
-            var customer = existingResult.Value;
-            customer.Name = updateDto.Name.Trim();
-            customer.Email = updateDto.Email.Trim().ToLower();
-            customer.Address = updateDto.Address?.Trim() ?? string.Empty;
-
-            var result = await _repository.UpdateAsync(customer);
-            if (!result.IsSuccess)
-                return Result.Fail<CustomerDto>(result.Error);
-
-            var customerDto = new CustomerDto
-            {
-                Id = result.Value.Id,
-                Name = result.Value.Name,
-                Email = result.Value.Email,
-                Address = result.Value.Address,
-                RegistrationDate = result.Value.RegistrationDate
-            };
-
-            return Result.Success(customerDto);
-        }
-
         public async Task<Result> DeleteCustomerAsync(int id)
         {
             return await _repository.DeleteAsync(id);
-        }
-
-        private bool IsValidEmail(string email)
-        {
-            try
-            {
-                var addr = new System.Net.Mail.MailAddress(email);
-                return addr.Address == email;
-            }
-            catch
-            {
-                return false;
-            }
         }
     }
 }

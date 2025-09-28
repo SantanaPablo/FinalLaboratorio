@@ -2,7 +2,8 @@
 using MSOrder.Domain;
 using MSOrder.Infrastructure.Repositories;
 using MSOrder.Application.Services;
-
+using FluentValidation;
+using MSOrder.Application.Validators;
 
 namespace MSOrder.Application.Services
 {
@@ -11,55 +12,29 @@ namespace MSOrder.Application.Services
         private readonly IOrderRepository _repository;
         private readonly ICustomerService _customerService;
         private readonly IProductService _productService;
+        private readonly IValidator<CreateOrderDto> _createValidator;
 
         public OrderService(
             IOrderRepository repository,
             ICustomerService customerService,
-            IProductService productService)
+            IProductService productService,
+            IValidator<CreateOrderDto> createValidator)
         {
             _repository = repository;
             _customerService = customerService;
             _productService = productService;
-        }
-
-        public async Task<Result<IEnumerable<OrderDto>>> GetAllOrdersAsync()
-        {
-            var result = await _repository.GetAllAsync();
-            if (!result.IsSuccess)
-                return Result.Fail<IEnumerable<OrderDto>>(result.Error);
-
-            var orderDtos = result.Value.Select(MapToOrderDto);
-            return Result.Success<IEnumerable<OrderDto>>(orderDtos);
-        }
-
-        public async Task<Result<OrderDto>> GetOrderByIdAsync(int id)
-        {
-            var result = await _repository.GetByIdAsync(id);
-            if (!result.IsSuccess)
-                return Result.Fail<OrderDto>(result.Error);
-
-            var orderDto = MapToOrderDto(result.Value);
-            return Result.Success(orderDto);
-        }
-
-        public async Task<Result<IEnumerable<OrderDto>>> GetOrdersByCustomerIdAsync(int customerId)
-        {
-            var result = await _repository.GetByCustomerIdAsync(customerId);
-            if (!result.IsSuccess)
-                return Result.Fail<IEnumerable<OrderDto>>(result.Error);
-
-            var orderDtos = result.Value.Select(MapToOrderDto);
-            return Result.Success<IEnumerable<OrderDto>>(orderDtos);
+            _createValidator = createValidator;
         }
 
         public async Task<Result<OrderDto>> CreateOrderAsync(CreateOrderDto createDto)
         {
-            // Validaciones básicas
-            if (createDto.CustomerId <= 0)
-                return Result.Fail<OrderDto>("ID de cliente inválido");
-
-            if (!createDto.OrderItems.Any())
-                return Result.Fail<OrderDto>("La orden debe tener al menos un producto");
+            // Validar usando FluentValidation
+            var validationResult = await _createValidator.ValidateAsync(createDto);
+            if (!validationResult.IsValid)
+            {
+                var errors = string.Join("; ", validationResult.Errors.Select(e => e.ErrorMessage));
+                return Result.Fail<OrderDto>(errors);
+            }
 
             // Verificar que el cliente existe
             var customer = await _customerService.GetCustomerByIdAsync(createDto.CustomerId);
@@ -78,9 +53,6 @@ namespace MSOrder.Application.Services
             // Procesar cada item de la orden
             foreach (var item in createDto.OrderItems)
             {
-                if (item.Quantity <= 0)
-                    return Result.Fail<OrderDto>($"La cantidad para el producto {item.ProductId} debe ser mayor a 0");
-
                 // Verificar que el producto existe
                 var product = await _productService.GetProductByIdAsync(item.ProductId);
                 if (product == null)
@@ -92,7 +64,7 @@ namespace MSOrder.Application.Services
                     return Result.Fail<OrderDto>($"Stock insuficiente para el producto {product.Name}. Stock disponible: {product.StockQuantity}");
                 }
 
-                // Determinar la cantidad a comprar (no puede ser mayor al stock disponible)
+                // Determinar la cantidad a comprar
                 var quantityToBuy = Math.Min(item.Quantity, product.StockQuantity);
                 var subtotal = product.Price * quantityToBuy;
 
@@ -124,6 +96,37 @@ namespace MSOrder.Application.Services
 
             var orderDto = MapToOrderDto(createResult.Value);
             return Result.Success(orderDto);
+        }
+
+        // ... resto de métodos sin cambios
+        public async Task<Result<IEnumerable<OrderDto>>> GetAllOrdersAsync()
+        {
+            var result = await _repository.GetAllAsync();
+            if (!result.IsSuccess)
+                return Result.Fail<IEnumerable<OrderDto>>(result.Error);
+
+            var orderDtos = result.Value.Select(MapToOrderDto);
+            return Result.Success<IEnumerable<OrderDto>>(orderDtos);
+        }
+
+        public async Task<Result<OrderDto>> GetOrderByIdAsync(int id)
+        {
+            var result = await _repository.GetByIdAsync(id);
+            if (!result.IsSuccess)
+                return Result.Fail<OrderDto>(result.Error);
+
+            var orderDto = MapToOrderDto(result.Value);
+            return Result.Success(orderDto);
+        }
+
+        public async Task<Result<IEnumerable<OrderDto>>> GetOrdersByCustomerIdAsync(int customerId)
+        {
+            var result = await _repository.GetByCustomerIdAsync(customerId);
+            if (!result.IsSuccess)
+                return Result.Fail<IEnumerable<OrderDto>>(result.Error);
+
+            var orderDtos = result.Value.Select(MapToOrderDto);
+            return Result.Success<IEnumerable<OrderDto>>(orderDtos);
         }
 
         public async Task<Result> DeleteOrderAsync(int id)

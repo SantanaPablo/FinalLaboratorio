@@ -1,5 +1,9 @@
+using FluentValidation.AspNetCore;
+using FluentValidation;
 using Microsoft.EntityFrameworkCore;
+using MSOrder.Application.DTOs;
 using MSOrder.Application.Services;
+using MSOrder.Application.Validators;
 using MSOrder.Infrastructure.Data;
 using MSOrder.Infrastructure.Repositories;
 
@@ -29,6 +33,11 @@ builder.Services.AddHttpClient<IProductService, ProductService>(client =>
 });
 
 builder.Services.AddLogging();
+
+// FluentValidation
+builder.Services.AddScoped<IValidator<CreateOrderDto>, CreateOrderDtoValidator>();
+builder.Services.AddFluentValidationAutoValidation();
+builder.Services.AddValidatorsFromAssemblyContaining<Program>();
 
 //Se habilita desde cualquier origen para pruebas
 builder.Services.AddCors(options =>
