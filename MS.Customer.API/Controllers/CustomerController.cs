@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using MSCustomer.API.DTOs;
 using MSCustomer.Application.DTOs;
@@ -5,6 +6,7 @@ using MSCustomer.Application.Services;
 
 namespace MSCustomer.API.Controllers
 {
+    //[Authorize] para autorizar con JWT
     [ApiController]
     [Route("api/[controller]")]
     public class CustomerController : ControllerBase

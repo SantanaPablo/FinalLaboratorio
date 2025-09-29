@@ -1,0 +1,12 @@
+⚙️ Backend
+Abrir la solución con Visual Studio y darle Run al perfil "3 Microservicios" (levanta 3 microservicios, 3 APIs en este caso en puertos 5000,5001 y 5002)
+
+🌐 Frontend – React + Vite
+
+1. Ejecutar el frontend React:
+   cd laboratoriofront
+   npm install
+   npm run dev
+
+2. Abrir el navegador en:
+   http://localhost:5173 (o puerto que levante)

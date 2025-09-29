@@ -3,6 +3,94 @@
   "WorkspaceRootPath": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0F881A08-9AF3-473E-ACC9-55EA27075292}|MS.Order.API\\MS.Order.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F881A08-9AF3-473E-ACC9-55EA27075292}|MS.Order.API\\MS.Order.API.csproj|solutionrelative:ms.order.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|solutionrelative:ms.order.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|solutionrelative:ms.order.application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F881A08-9AF3-473E-ACC9-55EA27075292}|MS.Order.API\\MS.Order.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F881A08-9AF3-473E-ACC9-55EA27075292}|MS.Order.API\\MS.Order.API.csproj|solutionrelative:ms.order.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|solutionrelative:ms.customer.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.api\\dtos\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|solutionrelative:ms.customer.api\\dtos\\createcustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.api\\dtos\\updatecustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|solutionrelative:ms.customer.api\\dtos\\updatecustomerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.api\\dtos\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|solutionrelative:ms.customer.api\\dtos\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|solutionrelative:ms.customer.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|solutionrelative:ms.customer.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|solutionrelative:ms.customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5145F441-D93E-4B86-8C1D-3D593CAEA76D}|MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.infrastructure\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5145F441-D93E-4B86-8C1D-3D593CAEA76D}|MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj|solutionrelative:ms.customer.infrastructure\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.api\\ms.customer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|solutionrelative:ms.customer.api\\ms.customer.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{872B568D-9D24-41F1-BF7C-0684566783DB}|MSCustomer.Domain\\MS.Customer.Domain.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\mscustomer.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{872B568D-9D24-41F1-BF7C-0684566783DB}|MSCustomer.Domain\\MS.Customer.Domain.csproj|solutionrelative:mscustomer.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCD2A7A-C057-430E-9107-1EE42F1122DB}|MS.Product.Domain\\MS.Product.Domain.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.product.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCD2A7A-C057-430E-9107-1EE42F1122DB}|MS.Product.Domain\\MS.Product.Domain.csproj|solutionrelative:ms.product.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D0C0D46-826B-4E83-9947-43D1DDFEEF3B}|MS.Product.Infrastructure\\MSProduct.Infrastructure.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.product.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D0C0D46-826B-4E83-9947-43D1DDFEEF3B}|MS.Product.Infrastructure\\MSProduct.Infrastructure.csproj|solutionrelative:ms.product.infrastructure\\data\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D90E3E8-4EE1-4A83-B221-CAEA55B819B9}|MS.Order.Infrastructure\\MS.Order.Infrastructure.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D90E3E8-4EE1-4A83-B221-CAEA55B819B9}|MS.Order.Infrastructure\\MS.Order.Infrastructure.csproj|solutionrelative:ms.order.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.application\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|solutionrelative:ms.order.application\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0DDBC4-BC3A-467F-9220-705C81247AD9}|MS.Order.Domain\\MS.Order.Domain.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.domain\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0DDBC4-BC3A-467F-9220-705C81247AD9}|MS.Order.Domain\\MS.Order.Domain.csproj|solutionrelative:ms.order.domain\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F0DDBC4-BC3A-467F-9220-705C81247AD9}|MS.Order.Domain\\MS.Order.Domain.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F0DDBC4-BC3A-467F-9220-705C81247AD9}|MS.Order.Domain\\MS.Order.Domain.csproj|solutionrelative:ms.order.domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24F15212-50B9-40EF-8228-F6C2FFD4DAD5}|LaboratorioFront\\laboratoriofront.esproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\laboratoriofront\\src\\pages\\orderform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{24F15212-50B9-40EF-8228-F6C2FFD4DAD5}|LaboratorioFront\\laboratoriofront.esproj|solutionrelative:laboratoriofront\\src\\pages\\orderform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F881A08-9AF3-473E-ACC9-55EA27075292}|MS.Order.API\\MS.Order.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.api\\dtos\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F881A08-9AF3-473E-ACC9-55EA27075292}|MS.Order.API\\MS.Order.API.csproj|solutionrelative:ms.order.api\\dtos\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5B426559-E6E4-46F6-82F3-21596AFEF2DB}|MS.Product.API\\MS.Product.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.product.api\\validators\\createproductrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5B426559-E6E4-46F6-82F3-21596AFEF2DB}|MS.Product.API\\MS.Product.API.csproj|solutionrelative:ms.product.api\\validators\\createproductrequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,18 +123,6 @@
       "RelativeMoniker": "D:0:0:{5B426559-E6E4-46F6-82F3-21596AFEF2DB}|MS.Product.API\\MS.Product.API.csproj|solutionrelative:ms.product.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F881A08-9AF3-473E-ACC9-55EA27075292}|MS.Order.API\\MS.Order.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F881A08-9AF3-473E-ACC9-55EA27075292}|MS.Order.API\\MS.Order.API.csproj|solutionrelative:ms.order.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|solutionrelative:ms.order.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|solutionrelative:ms.customer.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4B2E18B-3F46-457E-8923-DFA56C1CEFF4}|MS.Customer.Application\\MS.Customer.Application.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4B2E18B-3F46-457E-8923-DFA56C1CEFF4}|MS.Customer.Application\\MS.Customer.Application.csproj|solutionrelative:ms.customer.application\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -63,20 +139,8 @@
       "RelativeMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|solutionrelative:ms.order.application\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|solutionrelative:ms.order.application\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.application\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|solutionrelative:ms.order.application\\services\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0DDBC4-BC3A-467F-9220-705C81247AD9}|MS.Order.Domain\\MS.Order.Domain.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.domain\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F0DDBC4-BC3A-467F-9220-705C81247AD9}|MS.Order.Domain\\MS.Order.Domain.csproj|solutionrelative:ms.order.domain\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F0DDBC4-BC3A-467F-9220-705C81247AD9}|MS.Order.Domain\\MS.Order.Domain.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F0DDBC4-BC3A-467F-9220-705C81247AD9}|MS.Order.Domain\\MS.Order.Domain.csproj|solutionrelative:ms.order.domain\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9D90E3E8-4EE1-4A83-B221-CAEA55B819B9}|MS.Order.Infrastructure\\MS.Order.Infrastructure.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.infrastructure\\data\\orderdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -85,10 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|solutionrelative:ms.customer.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04A155FE-EDE7-4AAE-B895-CC804208CF44}|MS.Customer.API\\MS.Customer.API.csproj|solutionrelative:ms.customer.api\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5B426559-E6E4-46F6-82F3-21596AFEF2DB}|MS.Product.API\\MS.Product.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.product.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,16 +167,8 @@
       "RelativeMoniker": "D:0:0:{52D67BAE-C821-4D16-B128-FB37419288FF}|MS.Product.Application\\MS.Product.Application.csproj|solutionrelative:ms.product.application\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DCD2A7A-C057-430E-9107-1EE42F1122DB}|MS.Product.Domain\\MS.Product.Domain.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.product.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DCD2A7A-C057-430E-9107-1EE42F1122DB}|MS.Product.Domain\\MS.Product.Domain.csproj|solutionrelative:ms.product.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3DCD2A7A-C057-430E-9107-1EE42F1122DB}|MS.Product.Domain\\MS.Product.Domain.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.product.domain\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DCD2A7A-C057-430E-9107-1EE42F1122DB}|MS.Product.Domain\\MS.Product.Domain.csproj|solutionrelative:ms.product.domain\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D90E3E8-4EE1-4A83-B221-CAEA55B819B9}|MS.Order.Infrastructure\\MS.Order.Infrastructure.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D90E3E8-4EE1-4A83-B221-CAEA55B819B9}|MS.Order.Infrastructure\\MS.Order.Infrastructure.csproj|solutionrelative:ms.order.infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F0DDBC4-BC3A-467F-9220-705C81247AD9}|MS.Order.Domain\\MS.Order.Domain.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.domain\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -125,22 +177,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|solutionrelative:ms.order.application\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.application\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA612B11-D4E0-476F-8F55-AB4A935F3D86}|MS.Order.Application\\MS.Order.Application.csproj|solutionrelative:ms.order.application\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F881A08-9AF3-473E-ACC9-55EA27075292}|MS.Order.API\\MS.Order.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.api\\dtos\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F881A08-9AF3-473E-ACC9-55EA27075292}|MS.Order.API\\MS.Order.API.csproj|solutionrelative:ms.order.api\\dtos\\createorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F881A08-9AF3-473E-ACC9-55EA27075292}|MS.Order.API\\MS.Order.API.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.order.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F881A08-9AF3-473E-ACC9-55EA27075292}|MS.Order.API\\MS.Order.API.csproj|solutionrelative:ms.order.api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5145F441-D93E-4B86-8C1D-3D593CAEA76D}|MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.infrastructure\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5145F441-D93E-4B86-8C1D-3D593CAEA76D}|MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj|solutionrelative:ms.customer.infrastructure\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5145F441-D93E-4B86-8C1D-3D593CAEA76D}|MS.Customer.Infrastructure\\MS.Customer.Infrastructure.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\ms.customer.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -161,10 +197,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{872B568D-9D24-41F1-BF7C-0684566783DB}|MSCustomer.Domain\\MS.Customer.Domain.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\mscustomer.domain\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{872B568D-9D24-41F1-BF7C-0684566783DB}|MSCustomer.Domain\\MS.Customer.Domain.csproj|solutionrelative:mscustomer.domain\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{872B568D-9D24-41F1-BF7C-0684566783DB}|MSCustomer.Domain\\MS.Customer.Domain.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\mscustomer.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{872B568D-9D24-41F1-BF7C-0684566783DB}|MSCustomer.Domain\\MS.Customer.Domain.csproj|solutionrelative:mscustomer.domain\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{872B568D-9D24-41F1-BF7C-0684566783DB}|MSCustomer.Domain\\MS.Customer.Domain.csproj|e:\\users\\pablo santana\\source\\repos\\finallaboratorioservidor\\mscustomer.domain\\ms.customer.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -202,7 +234,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -210,88 +242,141 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateOrderDtoValidator.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Validators\\CreateOrderDtoValidator.cs",
-              "RelativeDocumentMoniker": "MS.Order.Application\\Validators\\CreateOrderDtoValidator.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Validators\\CreateOrderDtoValidator.cs",
-              "RelativeToolTip": "MS.Order.Application\\Validators\\CreateOrderDtoValidator.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T23:08:49.714Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateProductRequestValidator.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\Validators\\CreateProductRequestValidator.cs",
-              "RelativeDocumentMoniker": "MS.Product.API\\Validators\\CreateProductRequestValidator.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\Validators\\CreateProductRequestValidator.cs",
-              "RelativeToolTip": "MS.Product.API\\Validators\\CreateProductRequestValidator.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAABXAAAAAAAAAA==",
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "MS.Order.API\\Controllers\\OrderController.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "MS.Order.API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T23:00:59.678Z",
+              "WhenOpened": "2025-09-19T22:58:35.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateCustomerDtoValidator.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\Validators\\CreateCustomerDtoValidator.cs",
-              "RelativeDocumentMoniker": "MS.Customer.Application\\Validators\\CreateCustomerDtoValidator.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\Validators\\CreateCustomerDtoValidator.cs",
-              "RelativeToolTip": "MS.Customer.Application\\Validators\\CreateCustomerDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T22:58:35.207Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UpdateCustomerDtoValidator.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\Validators\\UpdateCustomerDtoValidator.cs",
-              "RelativeDocumentMoniker": "MS.Customer.Application\\Validators\\UpdateCustomerDtoValidator.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\Validators\\UpdateCustomerDtoValidator.cs",
-              "RelativeToolTip": "MS.Customer.Application\\Validators\\UpdateCustomerDtoValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "MS.Order.Application\\Services\\IOrderService.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\IOrderService.cs",
+              "RelativeToolTip": "MS.Order.Application\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T22:58:39.281Z"
+              "WhenOpened": "2025-09-19T23:00:21.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UpdateProductDtoValidator.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Validators\\UpdateProductDtoValidator.cs",
-              "RelativeDocumentMoniker": "MS.Product.Application\\Validators\\UpdateProductDtoValidator.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Validators\\UpdateProductDtoValidator.cs",
-              "RelativeToolTip": "MS.Product.Application\\Validators\\UpdateProductDtoValidator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T23:08:15.126Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateProductDtoValidator.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Validators\\CreateProductDtoValidator.cs",
-              "RelativeDocumentMoniker": "MS.Product.Application\\Validators\\CreateProductDtoValidator.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Validators\\CreateProductDtoValidator.cs",
-              "RelativeToolTip": "MS.Product.Application\\Validators\\CreateProductDtoValidator.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-26T23:06:10.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "OrderService.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\OrderService.cs",
               "RelativeDocumentMoniker": "MS.Order.Application\\Services\\OrderService.cs",
               "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\OrderService.cs",
               "RelativeToolTip": "MS.Order.Application\\Services\\OrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowGQAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T22:59:29.143Z"
+              "WhenOpened": "2025-09-19T22:59:29.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCustomerRequest.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\DTOs\\CreateCustomerRequest.cs",
+              "RelativeDocumentMoniker": "MS.Customer.API\\DTOs\\CreateCustomerRequest.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\DTOs\\CreateCustomerRequest.cs",
+              "RelativeToolTip": "MS.Customer.API\\DTOs\\CreateCustomerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:02:55.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\DTOs\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "MS.Customer.API\\DTOs\\AuthRequest.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\DTOs\\AuthRequest.cs",
+              "RelativeToolTip": "MS.Customer.API\\DTOs\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:04:12.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "MS.Customer.API\\Controllers\\CustomerController.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "MS.Customer.API\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:21:28.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.API\\Program.cs",
+              "RelativeDocumentMoniker": "MS.Order.API\\Program.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.API\\Program.cs",
+              "RelativeToolTip": "MS.Order.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T18:38:32.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateCustomerRequest.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\DTOs\\UpdateCustomerRequest.cs",
+              "RelativeDocumentMoniker": "MS.Customer.API\\DTOs\\UpdateCustomerRequest.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\DTOs\\UpdateCustomerRequest.cs",
+              "RelativeToolTip": "MS.Customer.API\\DTOs\\UpdateCustomerRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:02:56.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MS.Customer.API\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MS.Customer.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:01:35.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Infrastructure\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "MS.Customer.Infrastructure\\JwtHelper.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Infrastructure\\JwtHelper.cs",
+              "RelativeToolTip": "MS.Customer.Infrastructure\\JwtHelper.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAcwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T15:03:24.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MS.Customer.API\\appsettings.json",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\appsettings.json",
+              "RelativeToolTip": "MS.Customer.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-29T14:37:51.753Z"
             },
             {
               "$type": "Document",
@@ -301,229 +386,25 @@
               "RelativeDocumentMoniker": "MS.Customer.API\\Program.cs",
               "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\Program.cs",
               "RelativeToolTip": "MS.Customer.API\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-22T22:25:58.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\Program.cs",
-              "RelativeDocumentMoniker": "MS.Product.API\\Program.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\Program.cs",
-              "RelativeToolTip": "MS.Product.API\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAADMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:25:19.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "MS.Product.Application\\Services\\ProductService.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Services\\ProductService.cs",
-              "RelativeToolTip": "MS.Product.Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAADwv4UAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:47:59.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.API\\Program.cs",
-              "RelativeDocumentMoniker": "MS.Order.API\\Program.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.API\\Program.cs",
-              "RelativeToolTip": "MS.Order.API\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAqwDkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:23:18.629Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IOrderService.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\IOrderService.cs",
-              "RelativeDocumentMoniker": "MS.Order.Application\\Services\\IOrderService.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\IOrderService.cs",
-              "RelativeToolTip": "MS.Order.Application\\Services\\IOrderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T23:00:21.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "MS.Order.Application\\Services\\ProductService.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\ProductService.cs",
-              "RelativeToolTip": "MS.Order.Application\\Services\\ProductService.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAwwHcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T22:59:56.957Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "MS.Order.Application\\Services\\CustomerService.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\CustomerService.cs",
-              "RelativeToolTip": "MS.Order.Application\\Services\\CustomerService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T23:00:16.869Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\Services\\CustomerService.cs",
-              "RelativeDocumentMoniker": "MS.Customer.Application\\Services\\CustomerService.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\Services\\CustomerService.cs",
-              "RelativeToolTip": "MS.Customer.Application\\Services\\CustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:21:54.611Z"
+              "Title": "MS.Customer.API.csproj",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\MS.Customer.API.csproj",
+              "RelativeDocumentMoniker": "MS.Customer.API\\MS.Customer.API.csproj",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\MS.Customer.API.csproj",
+              "RelativeToolTip": "MS.Customer.API\\MS.Customer.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-29T15:16:42.994Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "MS.Order.Application\\Services\\IProductService.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\IProductService.cs",
-              "RelativeToolTip": "MS.Order.Application\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T23:00:22.027Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ICustomerService.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\ICustomerService.cs",
-              "RelativeDocumentMoniker": "MS.Order.Application\\Services\\ICustomerService.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\ICustomerService.cs",
-              "RelativeToolTip": "MS.Order.Application\\Services\\ICustomerService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:24:43.979Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Domain\\OrderItem.cs",
-              "RelativeDocumentMoniker": "MS.Order.Domain\\OrderItem.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Domain\\OrderItem.cs",
-              "RelativeToolTip": "MS.Order.Domain\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:49:42.317Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Order.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Domain\\Order.cs",
-              "RelativeDocumentMoniker": "MS.Order.Domain\\Order.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Domain\\Order.cs",
-              "RelativeToolTip": "MS.Order.Domain\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:24:53.448Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "OrderDbContext.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Infrastructure\\Data\\OrderDbContext.cs",
-              "RelativeDocumentMoniker": "MS.Order.Infrastructure\\Data\\OrderDbContext.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Infrastructure\\Data\\OrderDbContext.cs",
-              "RelativeToolTip": "MS.Order.Infrastructure\\Data\\OrderDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:49:22.234Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "MS.Customer.API\\Properties\\launchSettings.json",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "MS.Customer.API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-22T22:49:13.567Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "UpdateProductRequest.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\DTOs\\UpdateProductRequest.cs",
-              "RelativeDocumentMoniker": "MS.Product.API\\DTOs\\UpdateProductRequest.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\DTOs\\UpdateProductRequest.cs",
-              "RelativeToolTip": "MS.Product.API\\DTOs\\UpdateProductRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:48:52.099Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IProductService.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Services\\IProductService.cs",
-              "RelativeDocumentMoniker": "MS.Product.Application\\Services\\IProductService.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Services\\IProductService.cs",
-              "RelativeToolTip": "MS.Product.Application\\Services\\IProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:48:10.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "CreateProductRequest.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\DTOs\\CreateProductRequest.cs",
-              "RelativeDocumentMoniker": "MS.Product.API\\DTOs\\CreateProductRequest.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\DTOs\\CreateProductRequest.cs",
-              "RelativeToolTip": "MS.Product.API\\DTOs\\CreateProductRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:47:29.711Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "MS.Product.API\\Controllers\\ProductController.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "MS.Product.API\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:47:29.09Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "MS.Customer.API\\Controllers\\CustomerController.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "MS.Customer.API\\Controllers\\CustomerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:21:28.034Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
               "Title": "Product.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Domain\\Product.cs",
               "RelativeDocumentMoniker": "MS.Product.Domain\\Product.cs",
@@ -535,7 +416,331 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Infrastructure\\Data\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "MS.Product.Infrastructure\\Data\\ProductDbContext.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Infrastructure\\Data\\ProductDbContext.cs",
+              "RelativeToolTip": "MS.Product.Infrastructure\\Data\\ProductDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T14:41:03.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MSCustomer.Domain\\Customer.cs",
+              "RelativeDocumentMoniker": "MSCustomer.Domain\\Customer.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MSCustomer.Domain\\Customer.cs",
+              "RelativeToolTip": "MSCustomer.Domain\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:22:05.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "MS.Order.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "MS.Order.Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:25:13.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\DTOs\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "MS.Order.Application\\DTOs\\CreateOrderDto.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\DTOs\\CreateOrderDto.cs",
+              "RelativeToolTip": "MS.Order.Application\\DTOs\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:24:32.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OrderForm.jsx",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\laboratoriofront\\src\\pages\\OrderForm.jsx",
+              "RelativeDocumentMoniker": "laboratoriofront\\src\\pages\\OrderForm.jsx",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\laboratoriofront\\src\\pages\\OrderForm.jsx",
+              "RelativeToolTip": "laboratoriofront\\src\\pages\\OrderForm.jsx",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAqwIEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-09-28T23:38:47.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Domain\\Order.cs",
+              "RelativeDocumentMoniker": "MS.Order.Domain\\Order.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Domain\\Order.cs",
+              "RelativeToolTip": "MS.Order.Domain\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:24:53.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Domain\\OrderItem.cs",
+              "RelativeDocumentMoniker": "MS.Order.Domain\\OrderItem.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Domain\\OrderItem.cs",
+              "RelativeToolTip": "MS.Order.Domain\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:49:42.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateOrderRequest.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.API\\DTOs\\CreateOrderRequest.cs",
+              "RelativeDocumentMoniker": "MS.Order.API\\DTOs\\CreateOrderRequest.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.API\\DTOs\\CreateOrderRequest.cs",
+              "RelativeToolTip": "MS.Order.API\\DTOs\\CreateOrderRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:20:41.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateProductRequestValidator.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\Validators\\CreateProductRequestValidator.cs",
+              "RelativeDocumentMoniker": "MS.Product.API\\Validators\\CreateProductRequestValidator.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\Validators\\CreateProductRequestValidator.cs",
+              "RelativeToolTip": "MS.Product.API\\Validators\\CreateProductRequestValidator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T23:00:59.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UpdateCustomerDtoValidator.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\Validators\\UpdateCustomerDtoValidator.cs",
+              "RelativeDocumentMoniker": "MS.Customer.Application\\Validators\\UpdateCustomerDtoValidator.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\Validators\\UpdateCustomerDtoValidator.cs",
+              "RelativeToolTip": "MS.Customer.Application\\Validators\\UpdateCustomerDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T22:58:39.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateCustomerDtoValidator.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\Validators\\CreateCustomerDtoValidator.cs",
+              "RelativeDocumentMoniker": "MS.Customer.Application\\Validators\\CreateCustomerDtoValidator.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\Validators\\CreateCustomerDtoValidator.cs",
+              "RelativeToolTip": "MS.Customer.Application\\Validators\\CreateCustomerDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T22:58:35.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CreateOrderDtoValidator.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Validators\\CreateOrderDtoValidator.cs",
+              "RelativeDocumentMoniker": "MS.Order.Application\\Validators\\CreateOrderDtoValidator.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Validators\\CreateOrderDtoValidator.cs",
+              "RelativeToolTip": "MS.Order.Application\\Validators\\CreateOrderDtoValidator.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T23:08:49.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UpdateProductDtoValidator.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Validators\\UpdateProductDtoValidator.cs",
+              "RelativeDocumentMoniker": "MS.Product.Application\\Validators\\UpdateProductDtoValidator.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Validators\\UpdateProductDtoValidator.cs",
+              "RelativeToolTip": "MS.Product.Application\\Validators\\UpdateProductDtoValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T23:08:15.126Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 27,
+              "Title": "CreateProductDtoValidator.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Validators\\CreateProductDtoValidator.cs",
+              "RelativeDocumentMoniker": "MS.Product.Application\\Validators\\CreateProductDtoValidator.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Validators\\CreateProductDtoValidator.cs",
+              "RelativeToolTip": "MS.Product.Application\\Validators\\CreateProductDtoValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T23:06:10.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\Program.cs",
+              "RelativeDocumentMoniker": "MS.Product.API\\Program.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\Program.cs",
+              "RelativeToolTip": "MS.Product.API\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAIBJwDMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:25:19.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MS.Product.Application\\Services\\ProductService.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "MS.Product.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAADwv4UAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:47:59.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "MS.Order.Application\\Services\\ProductService.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "MS.Order.Application\\Services\\ProductService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAwwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:59:56.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "MS.Order.Application\\Services\\CustomerService.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "MS.Order.Application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T23:00:16.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "MS.Customer.Application\\Services\\CustomerService.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\Services\\CustomerService.cs",
+              "RelativeToolTip": "MS.Customer.Application\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:21:54.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "MS.Order.Application\\Services\\IProductService.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\IProductService.cs",
+              "RelativeToolTip": "MS.Order.Application\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T23:00:22.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "MS.Order.Application\\Services\\ICustomerService.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\Services\\ICustomerService.cs",
+              "RelativeToolTip": "MS.Order.Application\\Services\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:24:43.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "OrderDbContext.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Infrastructure\\Data\\OrderDbContext.cs",
+              "RelativeDocumentMoniker": "MS.Order.Infrastructure\\Data\\OrderDbContext.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Infrastructure\\Data\\OrderDbContext.cs",
+              "RelativeToolTip": "MS.Order.Infrastructure\\Data\\OrderDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:49:22.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MS.Customer.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MS.Customer.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T22:49:13.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateProductRequest.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\DTOs\\UpdateProductRequest.cs",
+              "RelativeDocumentMoniker": "MS.Product.API\\DTOs\\UpdateProductRequest.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\DTOs\\UpdateProductRequest.cs",
+              "RelativeToolTip": "MS.Product.API\\DTOs\\UpdateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:48:52.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "MS.Product.Application\\Services\\IProductService.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Application\\Services\\IProductService.cs",
+              "RelativeToolTip": "MS.Product.Application\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:48:10.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\DTOs\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "MS.Product.API\\DTOs\\CreateProductRequest.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\DTOs\\CreateProductRequest.cs",
+              "RelativeToolTip": "MS.Product.API\\DTOs\\CreateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:47:29.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MS.Product.API\\Controllers\\ProductController.cs",
+              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MS.Product.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T22:47:29.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "Result.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Product.Domain\\Result.cs",
               "RelativeDocumentMoniker": "MS.Product.Domain\\Result.cs",
@@ -547,19 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "OrderRepository.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Infrastructure\\Repositories\\OrderRepository.cs",
-              "RelativeDocumentMoniker": "MS.Order.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Infrastructure\\Repositories\\OrderRepository.cs",
-              "RelativeToolTip": "MS.Order.Infrastructure\\Repositories\\OrderRepository.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:25:13.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 42,
               "Title": "Result.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Domain\\Result.cs",
               "RelativeDocumentMoniker": "MS.Order.Domain\\Result.cs",
@@ -571,7 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 43,
               "Title": "OrderDto.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\DTOs\\OrderDto.cs",
               "RelativeDocumentMoniker": "MS.Order.Application\\DTOs\\OrderDto.cs",
@@ -583,31 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "CreateOrderDto.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\DTOs\\CreateOrderDto.cs",
-              "RelativeDocumentMoniker": "MS.Order.Application\\DTOs\\CreateOrderDto.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.Application\\DTOs\\CreateOrderDto.cs",
-              "RelativeToolTip": "MS.Order.Application\\DTOs\\CreateOrderDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:24:32.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "JwtHelper.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Infrastructure\\JwtHelper.cs",
-              "RelativeDocumentMoniker": "MS.Customer.Infrastructure\\JwtHelper.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Infrastructure\\JwtHelper.cs",
-              "RelativeToolTip": "MS.Customer.Infrastructure\\JwtHelper.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:22:46.94Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 44,
               "Title": "CustomerRepository.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Infrastructure\\Repositories\\CustomerRepository.cs",
               "RelativeDocumentMoniker": "MS.Customer.Infrastructure\\Repositories\\CustomerRepository.cs",
@@ -619,7 +788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 45,
               "Title": "20250918224607_InitialCreate.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Infrastructure\\Migrations\\20250918224607_InitialCreate.cs",
               "RelativeDocumentMoniker": "MS.Customer.Infrastructure\\Migrations\\20250918224607_InitialCreate.cs",
@@ -631,31 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.API\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "MS.Order.API\\Controllers\\OrderController.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.API\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "MS.Order.API\\Controllers\\OrderController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-19T22:58:35.521Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "CreateOrderRequest.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.API\\DTOs\\CreateOrderRequest.cs",
-              "RelativeDocumentMoniker": "MS.Order.API\\DTOs\\CreateOrderRequest.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.API\\DTOs\\CreateOrderRequest.cs",
-              "RelativeToolTip": "MS.Order.API\\DTOs\\CreateOrderRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:20:41.583Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 46,
               "Title": "ICustomerRepository.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Infrastructure\\Interfaces\\ICustomerRepository.cs",
               "RelativeDocumentMoniker": "MS.Customer.Infrastructure\\Interfaces\\ICustomerRepository.cs",
@@ -667,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 47,
               "Title": "CustomerDbContext.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Infrastructure\\Data\\CustomerDbContext.cs",
               "RelativeDocumentMoniker": "MS.Customer.Infrastructure\\Data\\CustomerDbContext.cs",
@@ -679,7 +824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 48,
               "Title": "Result.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MSCustomer.Domain\\Result.cs",
               "RelativeDocumentMoniker": "MSCustomer.Domain\\Result.cs",
@@ -691,19 +836,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MSCustomer.Domain\\Customer.cs",
-              "RelativeDocumentMoniker": "MSCustomer.Domain\\Customer.cs",
-              "ToolTip": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MSCustomer.Domain\\Customer.cs",
-              "RelativeToolTip": "MSCustomer.Domain\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T22:22:05.935Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 49,
               "Title": "MS.Customer.Domain.csproj",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MSCustomer.Domain\\MS.Customer.Domain.csproj",
               "RelativeDocumentMoniker": "MSCustomer.Domain\\MS.Customer.Domain.csproj",
@@ -715,7 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 50,
               "Title": "ICustomerService.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\Services\\ICustomerService.cs",
               "RelativeDocumentMoniker": "MS.Customer.Application\\Services\\ICustomerService.cs",
@@ -727,7 +860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 51,
               "Title": "UpdateCustomerDto.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\DTOs\\UpdateCustomerDto.cs",
               "RelativeDocumentMoniker": "MS.Customer.Application\\DTOs\\UpdateCustomerDto.cs",
@@ -739,7 +872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 52,
               "Title": "CustomerDto.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\DTOs\\CustomerDto.cs",
               "RelativeDocumentMoniker": "MS.Customer.Application\\DTOs\\CustomerDto.cs",
@@ -751,7 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 53,
               "Title": "CreateCustomerDto.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Customer.Application\\DTOs\\CreateCustomerDto.cs",
               "RelativeDocumentMoniker": "MS.Customer.Application\\DTOs\\CreateCustomerDto.cs",
@@ -763,7 +896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 55,
               "Title": "ProductList.jsx",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\laboratoriofront\\src\\pages\\ProductList.jsx",
               "RelativeDocumentMoniker": "laboratoriofront\\src\\pages\\ProductList.jsx",
@@ -775,7 +908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 54,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "E:\\Users\\Pablo Santana\\source\\repos\\FinalLaboratorioServidor\\MS.Order.API\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "MS.Order.API\\WeatherForecast.cs",

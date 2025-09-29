@@ -98,7 +98,7 @@ namespace MSOrder.Application.Services
             return Result.Success(orderDto);
         }
 
-        // ... resto de métodos sin cambios
+  
         public async Task<Result<IEnumerable<OrderDto>>> GetAllOrdersAsync()
         {
             var result = await _repository.GetAllAsync();

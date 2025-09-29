@@ -29,7 +29,7 @@ dotnet ef database update `
     --project MS.Product.Infrastructure `
     --startup-project MS.Product.API
 
-### 🔹 Product Microservice
+### 🔹 Costumer Microservice
 dotnet ef migrations add InitialCreate `
     --project MS.Customer.Infrastructure `
     --startup-project MS.Customer.API `
@@ -39,7 +39,7 @@ dotnet ef database update `
     --project MS.Customer.Infrastructure `
     --startup-project MS.Customer.API
 
-### 🔹 Product Microservice
+### 🔹 Infrastructure Microservice
 dotnet ef migrations add InitialCreate `
     --project MS.Order.Infrastructure `
     --startup-project MS.Order.API `
